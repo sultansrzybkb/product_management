@@ -1,1 +1,1 @@
-This repository contains a product management system developed using Django. Users can manage their products through this platform, including adding new products, updating existing ones, and deleting them. The system also supports listing products and viewing product details
+
